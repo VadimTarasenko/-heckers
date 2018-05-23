@@ -1,0 +1,23 @@
+Unity3D
+	log: Vadym.tarasenko99@gmail.com
+	passwd: Ajtajt*17
+
+Prîmeteus
+	log: Vadym.tarasenko99@gmail.com
+	passwd: ajtajt17
+
+Asu
+	log: Taxman777
+	passwd: ajtajt17
+
+Mathlab
+	log: BlackGendelf
+	passwd: Ajtajt17
+
+Garena
+	log: VadimTarasenko
+	passwd: ajtajt17
+
+Skype
+	log: Vadym.tarasenko99@gmail.com
+	passwd: ajtajt17

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4f86c661c65b02459ad89938ff756fc
+timeCreated: 1508861655
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Mario 286(RUS BY LYAJKA)
+  fontNames:
+  - Super Mario 286(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
